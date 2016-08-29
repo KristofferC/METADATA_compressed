@@ -1,0 +1,17 @@
+git://github.com/JuliaParallel/Hwloc.jl.git
+
+0.1.0
+-----
+2ee6bfa5d174bd3ddcf842da05baa4f06a1bb9f4
+@osx Homebrew
+BinDeps
+Compat 0.4.11
+julia 0.4-
+
+0.2.0
+-----
+b40e76af0b9d04d88a974f1615f1bfbf4795a7af
+@osx Homebrew
+BinDeps
+Compat 0.4.11
+julia 0.4-

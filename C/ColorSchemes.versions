@@ -1,0 +1,9 @@
+git://github.com/cormullion/ColorSchemes.jl.git
+
+0.0.1
+-----
+d69b8254d6b39f4a63e7dc1e3c07cbf8505c7da2
+julia 0.4
+Images
+Colors
+Clustering

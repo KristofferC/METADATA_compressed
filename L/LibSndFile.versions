@@ -1,0 +1,13 @@
+https://github.com/JuliaAudio/LibSndFile.jl.git
+
+0.2.1
+-----
+c96ba4924ac01ec433ad76eafa2e9e83eb8f9b1c
+julia 0.4
+BinDeps
+FileIO
+FixedPointNumbers
+SampledSignals
+SIUnits
+@osx Homebrew
+@windows WinRPM

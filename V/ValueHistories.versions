@@ -1,0 +1,19 @@
+git://github.com/JuliaML/ValueHistories.jl.git
+
+0.0.1
+-----
+89dfa52fa9679964619a4d857234032c711d0c9e
+julia 0.4
+DataStructures
+
+0.0.2
+-----
+0eef0eb66f5e7954fb951f71b36570a8ede5243e
+julia 0.4
+DataStructures
+
+0.0.3
+-----
+5bc9e08c367855b1d4d9412ff1ad6131047d4af4
+julia 0.4
+DataStructures

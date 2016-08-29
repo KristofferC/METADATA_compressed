@@ -1,0 +1,43 @@
+git://github.com/JuliaDocs/Documenter.jl.git
+
+0.1.0
+-----
+31f4f43feedc272e1a85ffd2ee6ed03bf49e5083
+julia 0.4
+Compat 0.7.17
+
+0.1.1
+-----
+382b00b09d35d51478a388a0d2bbe8429542c9b2
+julia 0.4
+Compat 0.7.17
+
+0.1.2
+-----
+27c3dccf769c689a61db91d983062bcf65b31893
+julia 0.4
+Compat 0.7.17
+
+0.1.3
+-----
+fe7540fdb657edd8b841d652021071a0fbe935fd
+julia 0.4
+Compat 0.7.17
+
+0.1.4
+-----
+b0a337b94b124affda5d9ab3a957228238c2e1cb
+julia 0.4
+Compat 0.7.17
+
+0.1.5
+-----
+29f712fa87cedfd29282fdb1dd4464a754dd01be
+julia 0.4
+Compat 0.7.17
+
+0.1.6
+-----
+bab60cb966fb2455b9672063c5d8c88f4f1c00d4
+julia 0.4
+Compat 0.7.17

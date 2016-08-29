@@ -1,0 +1,39 @@
+git://github.com/JuliaData/DataStreams.jl.git
+
+0.0.1
+-----
+a09a18b9559f1da81cfca3175b8c9f3da1c97b2c
+julia 0.4
+NullableArrays
+
+0.0.2
+-----
+5ae8d79f1356741c74ee55e36794407eb46c9cbd
+julia 0.4
+NullableArrays
+
+0.0.3
+-----
+b94a6cece84f576c7b20e82804e73a93335b84d3
+julia 0.4
+NullableArrays
+
+0.0.4
+-----
+8ee82fa0e6802faf185ccf4bf525b9139d132b2d
+julia 0.4
+NullableArrays
+
+0.0.5
+-----
+f75f579b0e4476ffff8736ebbd900c1bb9efbb1d
+julia 0.4
+NullableArrays
+DataFrames
+
+0.0.6
+-----
+f530cb450a06ef29caf37be19bf02c37af2c4112
+julia 0.4
+NullableArrays
+DataFrames

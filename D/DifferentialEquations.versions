@@ -1,0 +1,71 @@
+git://github.com/ChrisRackauckas/DifferentialEquations.jl.git
+
+0.0.1
+-----
+05416d5d62c1186dbb01c509f90ce570eb14ed4c
+julia 0.4
+LaTeXStrings
+Plots
+IterativeSolvers
+PyPlot
+Atom
+NLsolve
+
+0.0.2
+-----
+e14fe4bee934cff9365545475fd04a51b9508cc2
+julia 0.4
+LaTeXStrings
+Plots
+IterativeSolvers
+PyPlot
+NLsolve
+Parameters
+
+0.0.3
+-----
+113a9d87403e40ce56c5d017214c11e66f047f66
+julia 0.4
+Parameters
+GrowableArrays
+ChunkedArrays
+EllipsisNotation
+NLsolve
+Plots
+JLD
+ForwardDiff
+IterativeSolvers
+
+0.1.0
+-----
+c33c5e5b43839ac01c281a1f3b533e9fdf6a56f8
+julia 0.4
+Parameters
+GrowableArrays
+ChunkedArrays
+EllipsisNotation
+IterativeSolvers
+Plots
+
+0.1.1
+-----
+ddc15f76f36069cb5ea17c0dff68543c4414de36
+julia 0.4
+Parameters
+GrowableArrays
+ChunkedArrays
+EllipsisNotation
+IterativeSolvers
+Plots
+
+0.1.2
+-----
+a271a1632a0e11f0007df10e8a1eab710e01faad
+julia 0.4
+Parameters
+GrowableArrays
+ChunkedArrays
+EllipsisNotation
+IterativeSolvers
+GenericSVD
+Plots

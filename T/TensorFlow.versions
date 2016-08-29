@@ -1,0 +1,9 @@
+https://github.com/malmaud/TensorFlow.jl.git
+
+0.0.1
+-----
+2707f6c7513a7a0b29e0bf9add4f2b557c2ccf31
+julia 0.5-
+Requests
+BinDeps
+ProtoBuf
