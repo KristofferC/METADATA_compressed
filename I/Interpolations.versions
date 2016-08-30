@@ -88,3 +88,12 @@ julia 0.4
 WoodburyMatrices 0.1.5
 Ratios
 AxisAlgorithms
+
+0.3.6
+-----
+e8464501689ac1fbdd53c42abde3bbab50196aa2
+julia 0.4
+WoodburyMatrices 0.1.5
+Ratios
+AxisAlgorithms
+Compat 0.8.0

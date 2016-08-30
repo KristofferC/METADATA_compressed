@@ -67,3 +67,18 @@ Iterators
 Libz 0.2
 LightGraphs
 LightXML
+
+0.3.0
+-----
+2870dfc06abf87702a57408be3e25116de57e57a
+julia 0.4
+BufferedStreams 0.1
+Colors
+Compat
+IndexableBitVectors 0.1.1
+IntervalTrees
+Iterators
+Libz 0.2
+LightGraphs
+LightXML
+Roots

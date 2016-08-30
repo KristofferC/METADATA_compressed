@@ -12,6 +12,12 @@ e86ae3a230b7d6977eeba6782f318033f0bba695
 -----
 1296ee251cc0c7bf4884415b7b0a3a217933ba19
 
+0.1.10
+------
+e302a0de98da0ffa878edb359777370a0d94b49a
+julia 0.3
+Compat
+
 0.1.2
 -----
 2d5bea238d86fdadcdcabba1d87810ccfd9f0e00

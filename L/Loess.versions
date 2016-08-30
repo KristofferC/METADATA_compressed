@@ -51,3 +51,11 @@ julia 0.3
 Compat
 Distances
 Iterators
+
+0.0.7
+-----
+55e3a3fd32668323174ceda35b1cbb53f35588ac
+julia 0.3
+Compat 0.8.4
+Distances
+Iterators

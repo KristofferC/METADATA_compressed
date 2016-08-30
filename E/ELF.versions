@@ -32,3 +32,12 @@ StructIO
 DWARF
 ObjFileBase
 FileIO
+
+0.1.0
+-----
+07a2a38bd3d637be2d078fc586274d74f5eb0d71
+julia 0.5-
+StructIO
+DWARF
+ObjFileBase
+FileIO

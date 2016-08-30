@@ -23,3 +23,11 @@ HttpServer
 JSON 0.0 0.6
 Requests
 URIParser
+
+0.3.0
+-----
+ef86983ab8df3b35a8d1749513c0b4f9d304af77julia 0.5.0-rc2
+HttpServer
+JSON
+Requests
+URIParser

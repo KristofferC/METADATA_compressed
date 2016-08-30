@@ -33,3 +33,10 @@ Compat
 julia 0.3-
 Iterators
 Compat
+
+0.3.0
+-----
+e54c822a5858f93fba0c94695a728438655bf72c
+julia 0.4
+Iterators
+Compat

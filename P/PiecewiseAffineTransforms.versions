@@ -26,3 +26,11 @@ Compat 0.4
 VoronoiDelaunay 0.0.1
 Images
 ImageView
+
+0.2.0
+-----
+c9624dccc34e1f39bc3c02bcd27bf1f585e794c3
+julia 0.3
+Compat 0.4
+VoronoiDelaunay 0.0.1
+Images

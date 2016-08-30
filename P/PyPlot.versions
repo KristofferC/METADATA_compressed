@@ -328,3 +328,12 @@ Colors
 LaTeXStrings
 Compat 0.7.15
 Conda
+
+2.2.1
+-----
+eab4c673d75db1c3dc441917b39a95ec25bc2476
+julia 0.4
+PyCall 1.6.2
+Colors
+LaTeXStrings
+Compat 0.8.0

@@ -1,4 +1,4 @@
-git://github.com/JuliaLang/Roots.jl.git
+git://github.com/JuliaMath/Roots.jl.git
 
 0.0.0
 -----
@@ -240,5 +240,14 @@ julia 0.4
 Polynomials 0.0.5
 ForwardDiff 0.2.0
 Docile 0.4
+Primes
+Compat 0.4
+
+0.2.1
+-----
+943cf897e9ea6b31ab3ec70238ac4931065d365a
+julia 0.4
+Polynomials 0.0.5
+ForwardDiff 0.2.0
 Primes
 Compat 0.4

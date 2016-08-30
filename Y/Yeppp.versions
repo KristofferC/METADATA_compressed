@@ -56,3 +56,10 @@ BinDeps
 julia 0.3
 Compat
 BinDeps
+
+0.1.0
+-----
+c1d6b12ed5a1c030b9dc9c80ed55e74b59a96bc7
+julia 0.3
+Compat 0.7.20
+BinDeps

@@ -67,3 +67,11 @@ Compat
 Docile
 HDF5
 julia 0.4
+
+0.2.0
+-----
+5fe6a0b5e5a90bfc2d22cadf9dea288c122ce0b6
+Compat 0.7.18
+Docile
+HDF5
+julia 0.5-

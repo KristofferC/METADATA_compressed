@@ -78,3 +78,23 @@ HttpCommon 0.0.3
 HttpServer 0.0.4
 Codecs
 Nettle 0.2.0
+
+0.2.0
+-----
+f175982e6469a20ed2133293f4ed4cfbdff39f0e
+julia 0.4
+Compat 0.7.16
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+MbedTLS
+
+0.2.1
+-----
+872977efc0d23c4aaa1e0f7be4efb87baa18cca9
+julia 0.4
+Compat 0.7.16
+HttpCommon 0.0.3
+HttpServer 0.0.4
+Codecs
+MbedTLS

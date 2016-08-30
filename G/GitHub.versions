@@ -144,3 +144,27 @@ MbedTLS
 Dates
 HttpCommon
 Requests
+
+2.1.0
+-----
+adaa80b5b1115f2b420ed7e40f773feed2ad0688
+julia 0.4
+Compat 0.8.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests
+
+2.1.1
+-----
+74aedaab2f0c1a64e396b6ff0442dbcfd0f037ab
+julia 0.4
+Compat 0.8.4
+JSON
+HttpServer
+MbedTLS
+Dates
+HttpCommon
+Requests

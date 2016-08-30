@@ -585,3 +585,25 @@ SortingAlgorithms
 Reexport
 Compat 0.7.19
 Docile
+
+0.7.7
+-----
+cd827176818d5f164e6c2a8a12310b78f26d884c
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.8
+
+0.7.8
+-----
+084bfa7bff89ac5f52b9f36c41f0adea1df0f1e5
+julia 0.4
+DataArrays 0.3.4
+StatsBase 0.8.3
+GZip
+SortingAlgorithms
+Reexport
+Compat 0.8

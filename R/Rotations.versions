@@ -13,3 +13,17 @@ Quaternions
 julia 0.4
 FixedSizeArrays
 Quaternions
+
+0.2.0
+-----
+121e73d7fce6c6f997eaabaaa0086e15fc9e8620
+julia 0.4
+Compat
+FixedSizeArrays
+Quaternions
+
+0.3.0
+-----
+760f1fa3100adbfea9916630ead7cfa3abfeb503
+julia 0.5-
+StaticArrays 0.0.3

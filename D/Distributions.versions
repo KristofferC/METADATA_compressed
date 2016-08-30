@@ -20,6 +20,26 @@ Calculus
 StatsBase 0.8.3
 Compat 0.8.4
 
+0.10.1
+------
+b4c303e4409380846f652a7a1cf1cb815985811e
+julia 0.4
+PDMats 0.4.2 0.5
+StatsFuns 0.3.0
+Calculus
+StatsBase 0.8.3
+Compat 0.8.4
+
+0.10.2
+------
+f0b12936bcd3d34f9de6659ab372af75e81ca273
+julia 0.4
+PDMats 0.4.2 0.5
+StatsFuns 0.3.0
+Calculus
+StatsBase 0.8.3
+Compat 0.8.4
+
 0.1.1
 -----
 c5b2af54a1465695fcac959549abeccd64884a27

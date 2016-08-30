@@ -199,6 +199,19 @@ Codecs
 JSON 0.0 0.6
 Zlib
 
+0.3.10
+------
+752275d3d452890d0d2c7e63526c8a86cfebfef9
+julia 0.4
+HttpCommon 0.2.4
+HttpParser
+URIParser 0.1.1
+MbedTLS 0.2.1
+Codecs
+JSON
+Libz
+Compat 0.8.0
+
 0.3.2
 -----
 1509a494288920252163923dd0136894efcfdd40

@@ -36,3 +36,17 @@ ASTInterpreter
 AbstractTrees
 COFF
 CRC
+
+0.0.4
+-----
+613ab104ddef105e7ae50c1f53ff557793d8cae4
+julia 0.5-
+TerminalUI
+DWARF
+ObjFileBase
+ELF
+MachO
+ASTInterpreter
+AbstractTrees
+COFF
+CRC

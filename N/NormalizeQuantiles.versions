@@ -12,6 +12,12 @@ DataArrays 0.2.20
 julia 0.3
 DataArrays 0.2.16
 
+0.0.11
+------
+58378f8aff6f87800c58be31090c543cbbfc8fc2
+julia 0.3
+DataArrays 0.2.16
+
 0.0.2
 -----
 813ec58f6814916e06c792b748f01de60fa2ef4a
@@ -57,5 +63,29 @@ DataArrays 0.2.16
 0.0.9
 -----
 1f9008ecaeb8ef91ee7da94c04136ce24972fcd6
+julia 0.3
+DataArrays 0.2.16
+
+0.1.0
+-----
+5fa1ca71898f46b89a7fa0af309b901d90479225
+julia 0.3
+DataArrays 0.2.16
+
+0.1.1
+-----
+98e298f7a29169ceb4a5ca74db672f7b0c12adb8
+julia 0.3
+DataArrays 0.2.16
+
+0.1.2
+-----
+3b4322cc6614d9ff6d2f4309aa1e4c1d9f3d9dcf
+julia 0.3
+DataArrays 0.2.16
+
+0.2.0
+-----
+56df258cafccbb92f3f7a38699dacddfeba38f57
 julia 0.3
 DataArrays 0.2.16

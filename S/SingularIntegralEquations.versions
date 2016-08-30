@@ -16,12 +16,19 @@ ApproxFun 0.1 0.2-
 -----
 4f4936974532d476c41aace0781a90e11952e3a6
 julia 0.4
-ApproxFun 0.2
+ApproxFun 0.2 0.3-
 Compat 0.8.4
 
 0.1.2
 -----
 a57111cfc20e28dd97d22dbbd578d60c94a8bebd
 julia 0.4
-ApproxFun 0.2.1
+ApproxFun 0.2.1 0.3-
+Compat 0.8.4
+
+0.1.3
+-----
+36019dcaab8b878ab66af03cb1b7817d473c6c84
+julia 0.4
+ApproxFun 0.3
 Compat 0.8.4

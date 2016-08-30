@@ -56,3 +56,17 @@ ImmutableArrays
 julia 0.4
 Compat
 FixedSizeArrays
+
+0.1.1
+-----
+8b59af7312eb61ea5c7fe297bd811696656a096d
+julia 0.4
+Compat 0.8.0
+FixedSizeArrays
+
+0.2.0
+-----
+de1338502afa05f2686d93972e5813a466542daf
+julia 0.4
+Compat 0.8.0
+FixedSizeArrays

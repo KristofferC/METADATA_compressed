@@ -77,3 +77,19 @@ julia 0.3-
 Polynomials
 Reexport
 Compat
+
+0.1.0
+-----
+7cfac97beeefa5de0ed98592fc624464a2ed81fd
+julia 0.4
+Polynomials
+Reexport
+Compat 0.7.15
+
+0.1.1
+-----
+8fb5c7cab2293e89fb2b3df6dc02266af965b1c8
+julia 0.4
+Polynomials
+Reexport
+Compat 0.8.4

@@ -167,3 +167,14 @@ Images v0.4.4
 ImageView v0.1.4
 @osx Homebrew
 @linux Glob
+
+0.1.0
+-----
+8c5d40085aab36cd69be4f0772681f8409f11b87
+julia 0.4
+Compat 0.8.7
+BinDeps 0.3.4
+Images 0.4.4
+ImageView 0.1.4
+@osx Homebrew
+@linux Glob

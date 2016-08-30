@@ -20,3 +20,10 @@ ac26d9b48ffc5fe31cabbc7fb8db7df2bbdd43e8
 julia 0.5-
 JuliaParser 0.7.2
 AbstractTrees 0.0.2
+
+0.0.4
+-----
+f583c99c82b06b73a3cb1f26163551ab3b465741
+julia 0.5-
+JuliaParser 0.7.2
+AbstractTrees 0.0.4

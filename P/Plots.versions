@@ -265,3 +265,15 @@ Compat
 FixedSizeArrays
 Measures
 Showoff
+
+0.9.1
+-----
+011f51fbd91a7dac440569426b24766f39aa813f
+julia 0.5-
+RecipesBase
+PlotUtils
+Reexport
+Compat
+FixedSizeArrays
+Measures
+Showoff

@@ -42,3 +42,23 @@ Distributions
 Optim
 Grid
 Compat
+
+0.2.0
+-----
+2de1e7bae939d923cbfd4fb000921aca42d1a6fb
+julia 0.3
+StatsBase
+Distributions
+Optim
+Grid
+Compat
+
+0.3.0
+-----
+cf9686204ff5d1d3f129d4d9e50c69cbb9a8bb02
+julia 0.4
+StatsBase
+Distributions
+Optim
+Interpolations
+Compat

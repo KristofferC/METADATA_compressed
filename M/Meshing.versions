@@ -17,3 +17,10 @@ GeometryTypes
 c1ca1f6beb44c01a8bb02e6978ddd120b0872f68
 julia 0.4
 GeometryTypes
+
+0.0.3
+-----
+6722f25f79702120fd4d74070309ab98693db4d2
+julia 0.4
+GeometryTypes 0.1.6
+Compat 0.8.6

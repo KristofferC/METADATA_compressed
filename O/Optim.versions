@@ -152,3 +152,21 @@ Calculus
 DualNumbers 0.2
 PositiveFactorizations
 Compat 0.7.16
+
+0.6.0
+-----
+276c98d3a61432a14fad388debce91d056653b88
+julia 0.4
+Calculus
+ForwardDiff 0.2.0 0.3.0
+PositiveFactorizations
+Compat 0.8.4
+
+0.6.1
+-----
+90f084767077f83e8cba41869cd73afa9d8c6e35
+julia 0.4
+Calculus
+ForwardDiff 0.2.0 0.3.0
+PositiveFactorizations
+Compat 0.8.4

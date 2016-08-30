@@ -81,3 +81,13 @@ Cairo
 Graphics
 Docile
 Compat
+
+0.1.0
+-----
+99d837f559536eafafd507ffa46e9b25523eda10
+julia 0.4
+Gtk
+Cairo
+Graphics
+Docile
+Compat 0.7.16

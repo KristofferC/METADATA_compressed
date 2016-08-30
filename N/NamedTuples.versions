@@ -16,3 +16,8 @@ git://github.com/blackrock/NamedTuples.jl.git
 -----
 acf7dfbc6ae8515bb4213d9b0f7c54511ac91998
 julia 0.4
+
+1.0.0
+-----
+79040583a127ae686d1ddfc46353f19bde3ec68f
+julia 0.4

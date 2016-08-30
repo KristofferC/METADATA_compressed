@@ -559,3 +559,87 @@ Gadfly
 DataFrames
 Docile
 Lexicon
+
+0.2.0
+-----
+e36e8746d1bb024450321b3a15d67043ac41a771
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon
+
+0.2.1
+-----
+177d9fa01897ba77b775dd9e825de2dc45cd5d99
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon
+
+0.2.2
+-----
+caae69cd519007fbbae7389cff3613a7b4c016cd
+julia 0.4
+Anasol
+BIGUQ
+MetaProgTools
+ReusableFunctions
+RobustPmap
+Conda
+PyCall 1.6.2
+PyPlot
+Gadfly
+YAML
+JSON
+JLD
+ProgressMeter
+Distributions
+DataStructures
+DataFrames
+StatsBase
+ODE
+Lora 0.5
+Optim 0.5
+BlackBoxOptim
+Docile
+Lexicon

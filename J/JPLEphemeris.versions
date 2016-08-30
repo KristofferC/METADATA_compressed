@@ -40,3 +40,10 @@ JLD
 9751b31f91a26696830a13935abcb124fb3de674
 julia 0.4
 JLD
+
+0.4.0
+-----
+3686fcdecd9e04a444de546cd4e497d6efce8321
+julia 0.4
+BaseTestNext
+Compat

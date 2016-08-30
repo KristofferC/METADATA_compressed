@@ -154,6 +154,20 @@ julia 0.3
 Compat 0.7.6
 AutoHashEquals
 
+1.7.10
+------
+0fdcd12cc8914022c07f5e3a191daab67d728e51
+julia 0.3
+Compat 0.7.12
+AutoHashEquals 0.0.8
+
+1.7.11
+------
+a0c0da6cbaa98ed707d4290c899589e7833dbec5
+julia 0.3
+Compat 0.7.12
+AutoHashEquals 0.0.8
+
 1.7.2
 -----
 b275b4eb786d9b6a1e8f4fbfbd8ec80c8e780515

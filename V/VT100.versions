@@ -7,3 +7,11 @@ julia 0.4
 Colors
 Compat
 FixedPointNumbers
+
+0.0.2
+-----
+f7a02f318e70343671e901fc248e834f11610b47
+julia 0.4
+Colors
+Compat 0.7.15
+FixedPointNumbers

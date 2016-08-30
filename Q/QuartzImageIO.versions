@@ -61,3 +61,24 @@ Images 0.5
 Colors
 ColorVectorSpace
 FixedPointNumbers 0.1
+
+0.1.3
+-----
+cef306618fab303ae8bc7fc1999d88083df27ca6
+julia 0.4
+FileIO 0.0.4
+Images 0.5
+Colors
+ColorVectorSpace
+FixedPointNumbers 0.1
+
+0.1.4
+-----
+e5dfdd154bcba00404d936af269c31541303c2bd
+julia 0.4
+FileIO 0.0.4
+Images 0.5
+Colors
+ColorVectorSpace
+FixedPointNumbers 0.1
+Compat 0.8.0

@@ -27,3 +27,18 @@ Distances
 julia 0.4
 Distances
 Compat 0.8.4
+
+0.0.5
+-----
+d8e718c0da4bf9c6ecd221d73dcb45e2ad177857
+julia 0.4
+Distances
+Compat 0.8.4
+
+0.1.0
+-----
+815f96af1dc4021537d9ebf9237b60f56df10c7e
+julia 0.5-
+Distances 0.3 0.4
+StaticArrays 0.0.4
+Compat 0.8.4

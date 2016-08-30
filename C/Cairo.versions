@@ -260,6 +260,17 @@ Graphics 0.1
 @osx Homebrew
 @windows WinRPM
 
+0.2.34
+------
+18c56380dd90b48123bcf1cb579c1882fd320707
+julia 0.3
+Compat 0.8.0
+Colors
+BinDeps 0.3.21
+Graphics 0.1
+@osx Homebrew
+@windows WinRPM
+
 0.2.4
 -----
 4eac5aa41eab304000551ccd5ee352bc98482811

@@ -10,6 +10,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.0
 -----
@@ -22,6 +23,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.1
 -----
@@ -34,6 +36,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.10
 ------
@@ -46,6 +49,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.11
 ------
@@ -58,6 +62,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.12
 ------
@@ -71,6 +76,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.13
 ------
@@ -84,6 +90,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.14
 ------
@@ -97,6 +104,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.15
 ------
@@ -110,6 +118,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.16
 ------
@@ -123,6 +132,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.17
 ------
@@ -137,6 +147,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.18
 ------
@@ -149,6 +160,7 @@ DataFrames
 Datetime
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.19
 ------
@@ -163,6 +175,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.2
 -----
@@ -175,6 +188,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.20
 ------
@@ -189,6 +203,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.21
 ------
@@ -203,6 +218,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.22
 ------
@@ -217,6 +233,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.23
 ------
@@ -231,6 +248,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.24
 ------
@@ -245,6 +263,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.25
 ------
@@ -259,6 +278,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.26
 ------
@@ -273,6 +293,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.27
 ------
@@ -287,6 +308,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.28
 ------
@@ -301,6 +323,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.29
 ------
@@ -315,6 +338,7 @@ Distributions
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.3
 -----
@@ -327,6 +351,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.30
 ------
@@ -342,6 +367,7 @@ Hexagons
 Iterators
 JSON
 Loess
+Contour 0.0.0 0.2.0-
 
 0.1.31
 ------
@@ -358,6 +384,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.1.4
 -----
@@ -370,6 +397,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.5
 -----
@@ -382,6 +410,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.6
 -----
@@ -394,6 +423,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.7
 -----
@@ -406,6 +436,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.8
 -----
@@ -418,6 +449,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.1.9
 -----
@@ -430,6 +462,7 @@ DataFrames
 Distributions
 Iterators
 JSON
+Contour 0.0.0 0.2.0-
 
 0.2.0
 -----
@@ -446,6 +479,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.1
 -----
@@ -462,6 +496,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.2
 -----
@@ -478,6 +513,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.3
 -----
@@ -494,6 +530,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.4
 -----
@@ -510,6 +547,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.5
 -----
@@ -526,6 +564,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.6
 -----
@@ -542,6 +581,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.7
 -----
@@ -558,6 +598,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.8
 -----
@@ -575,6 +616,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.2.9
 -----
@@ -592,6 +634,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.3.0
 -----
@@ -609,6 +652,7 @@ Iterators
 JSON
 Loess
 StatsBase
+Contour 0.0.0 0.2.0-
 
 0.3.1
 -----
@@ -616,7 +660,7 @@ StatsBase
 julia 0.2-
 Codecs
 Color
-Contour
+Contour 0.0.0 0.2-
 Compose 0.3.0
 DataFrames 0.4.2
 DataStructures
@@ -636,7 +680,7 @@ Codecs
 Color 0.3.4
 Compat
 Compose 0.3.10
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -657,7 +701,7 @@ Codecs
 Color 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -678,7 +722,7 @@ Codecs
 Color 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -699,7 +743,7 @@ Codecs
 Color 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -720,7 +764,7 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -741,7 +785,7 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -762,7 +806,7 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -783,7 +827,7 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -804,7 +848,7 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -823,7 +867,7 @@ ca84b4b51ad5bca4a798e83ca343135864d4ea1c
 julia 0.2-
 Codecs
 Color
-Contour
+Contour 0.0.0 0.2-
 Compose 0.3.0
 DataFrames 0.4.2
 DataStructures
@@ -841,7 +885,7 @@ StatsBase
 julia 0.2-
 Codecs
 Color
-Contour
+Contour 0.0.0 0.2-
 Compose 0.3.0
 DataFrames 0.4.2
 DataStructures
@@ -860,7 +904,7 @@ julia 0.3-
 Codecs
 Color
 Compose 0.3.0
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Datetime
@@ -879,7 +923,7 @@ julia 0.3-
 Codecs
 Color
 Compose 0.3.0
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Datetime
@@ -898,7 +942,7 @@ julia 0.3-
 Codecs
 Color
 Compose 0.3.6
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Datetime
@@ -917,7 +961,7 @@ julia 0.3-
 Codecs
 Color 0.3.4
 Compose 0.3.7
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Datetime
@@ -936,7 +980,7 @@ julia 0.3-
 Codecs
 Color 0.3.4
 Compose 0.3.8
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Datetime
@@ -955,7 +999,7 @@ julia 0.3-
 Codecs
 Color 0.3.4
 Compose 0.3.9
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -976,7 +1020,7 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -997,7 +1041,7 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
@@ -1018,10 +1062,30 @@ Codecs
 Colors 0.3.4
 Compat
 Compose 0.3.11
-Contour
+Contour 0.0.0 0.2-
 DataFrames 0.4.2
 DataStructures
 Dates
+Distributions
+Hexagons
+Iterators 0.1.5
+JSON
+KernelDensity
+Loess
+Showoff 0.0.3
+StatsBase
+
+0.4.3
+-----
+b585b3d7390f0c993b5aa4ca8c7f4142962e17aa
+julia 0.4
+Codecs
+Colors 0.3.4
+Compat 0.8.5
+Compose 0.4.4
+Contour 0.1.1
+DataFrames 0.4.2
+DataStructures
 Distributions
 Hexagons
 Iterators 0.1.5

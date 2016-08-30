@@ -102,3 +102,12 @@ DataFrames
 Docile
 Lexicon
 Compat
+
+1.0.0
+-----
+0c462823dce220fba5f459944699104a55420829
+julia 0.4
+StatsBase
+Distributions
+DataFrames
+FactCheck

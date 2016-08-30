@@ -32,6 +32,17 @@ BinDeps
 @osx Homebrew
 Compat 0.8.0
 
+0.10.2
+------
+5e3338caaf01b2746291a29b46057bca30e6b39d
+julia 0.4
+Cairo 0.2.2
+Graphics 0.1
+BinDeps
+@windows WinRPM
+@osx Homebrew
+Compat 0.8.0
+
 0.2.0
 -----
 212591fafb8b52a44169ba2d87eec44aea29f570

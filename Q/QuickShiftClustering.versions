@@ -50,3 +50,11 @@ julia 0.4-
 FunctionalDataUtils
 KDTrees
 ProgressMeter
+
+0.1.1
+-----
+e430389de030b6b70817f96b36dd601d48c07483
+julia 0.4
+FunctionalDataUtils
+NearestNeighbors
+ProgressMeter

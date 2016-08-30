@@ -27,3 +27,10 @@ b7afcaead991748ec7009dc57f0d79aaa0358e3c
 julia 0.4
 Plots v0.7.4
 Polynomials
+
+0.2.0
+-----
+302dfc240f3648b642620df393b58374f24e1bd2
+julia 0.5-
+Plots v0.7.4
+Polynomials

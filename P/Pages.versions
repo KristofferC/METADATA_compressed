@@ -37,3 +37,24 @@ WebSockets
 URIParser
 Mustache
 JSON
+
+0.0.5
+-----
+1fa459fb0ce55d2797b52fd340622421c3663961
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+Mustache
+JSON
+
+0.0.6
+-----
+e12ae4a8d464e2be8ae886056f4aa5f8ebd548c3
+julia 0.4
+HttpServer
+WebSockets
+URIParser
+Mustache
+JSON
+Compat 0.8.6

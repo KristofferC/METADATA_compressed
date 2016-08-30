@@ -71,3 +71,13 @@ PDMats 0.3-
 Distances 0.2-
 ArrayViews 0.6-
 ScikitLearnBase 0.0.1
+
+0.3.1
+-----
+cec1adba45bf6e53814d6fa3a5bdd06ae16c0fce
+julia 0.4
+Optim 0.5-
+PDMats 0.3-
+Distances 0.2-
+ArrayViews 0.6-
+ScikitLearnBase 0.0.1

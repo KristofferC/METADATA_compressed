@@ -1,4 +1,4 @@
-git://github.com/JuliaLang/Sundials.jl.git
+git://github.com/JuliaDiffEq/Sundials.jl.git
 
 0.0.0
 -----
@@ -34,3 +34,10 @@ BinDeps 0.3
 209b3b84a3f5e9e7455eac75d70ac220f4826c2c
 julia 0.4-
 BinDeps 0.3
+
+0.2.1
+-----
+9a3567d590835ef6021d37cff13fd63897704eb3
+julia 0.4
+BinDeps 0.3
+Compat

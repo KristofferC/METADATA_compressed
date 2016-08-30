@@ -41,3 +41,9 @@ Compat
 8e0e7233a5b21ba67f866eb5663f837ee073d5de
 julia 0.4
 Compat
+
+0.3.0
+-----
+d68911be5c661488e61524bee5815314306c29f9
+julia 0.5-
+Primes

@@ -166,3 +166,14 @@ Distributions 0.8.9
 LightGraphs
 Primes
 Compat
+
+0.5.1
+-----
+79fa677daeef75dd694d1f6e710a44f4244fd197
+julia 0.4
+DSP
+Distributions 0.8.9
+LightGraphs
+Primes
+Compat 0.8.4
+StatsBase

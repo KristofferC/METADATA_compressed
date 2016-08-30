@@ -77,3 +77,12 @@ Images
 ImageMagick
 Winston
 CompilerTools
+
+0.1.8
+-----
+ac76b481a01690a6328e791184d010fe72e6d00c
+julia 0.4
+CompilerTools
+DataStructures
+Compat
+@windows WinRPM

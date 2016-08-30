@@ -1,5 +1,19 @@
 git://github.com/brian-j-smith/Mamba.jl.git
 
+0.10.0
+------
+e2dd08835e10c3a38bb61658eedf9fb6a7417644
+julia 0.5.0-rc3
+Cairo 0.2.31
+Calculus 0.1.13
+Compose 0.3.18
+Distributions 0.10.0
+Gadfly 0.3.18
+Graphs 0.6.0
+PDMats 0.3.6
+Showoff 0.0.6
+StatsBase 0.7.4
+
 0.3.7
 -----
 90eaf7ff0ac61d01b14ca3fcfd860b8e020d3fe2

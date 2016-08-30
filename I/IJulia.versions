@@ -386,3 +386,13 @@ JSON 0.5
 ZMQ 0.3
 Compat 0.7.9
 Conda 0.1.5
+
+1.2.0
+-----
+86a1411f8a73154b1f61e602aa71d47ccc4d1e82
+julia 0.4
+Nettle 0.2
+JSON 0.5
+ZMQ 0.3.1
+Compat 0.7.20
+Conda 0.1.5

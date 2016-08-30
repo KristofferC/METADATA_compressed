@@ -41,3 +41,38 @@ Compat 0.7.17
 bab60cb966fb2455b9672063c5d8c88f4f1c00d4
 julia 0.4
 Compat 0.7.17
+
+0.2.0
+-----
+25a6f2f56a9d73713393f6ada254f6884fc5d2c7
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.1
+
+0.2.1
+-----
+446ab503f658c408ed3012ccb57fd2c399c16e55
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.1
+
+0.2.2
+-----
+c5be239597babe9b7ffc1c93ffed425a2f149c9f
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.1
+
+0.3.0
+-----
+491c97749ba687d16ccc80fd7c914ffb09122415
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.1
+
+0.3.1
+-----
+a40fa719e43efb474325497e3f265491bc07faaf
+julia 0.4
+Compat 0.8
+DocStringExtensions 0.2

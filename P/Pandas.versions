@@ -13,3 +13,10 @@ PyPlot
 julia 0.2-
 PyCall
 PyPlot
+
+0.3.0
+-----
+02ce97243873002c2ea2739021e410c1a10fac19
+julia 0.4
+PyCall
+PyPlot

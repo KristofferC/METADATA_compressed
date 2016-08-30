@@ -84,3 +84,14 @@ Plots 0.8.1
 Compat 0.8.6
 DualNumbers 0.2.2
 BandedMatrices 0.0.6
+
+0.3.0
+-----
+8dfd3d5d6c99ef29c01d041b7d837a2d2592820c
+julia 0.4
+FastGaussQuadrature 0.0.3
+FastTransforms 0.0.4
+Plots 0.8.2
+Compat 0.8.6
+DualNumbers 0.2.2
+BandedMatrices 0.0.8
